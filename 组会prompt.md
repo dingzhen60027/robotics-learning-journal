@@ -266,6 +266,9 @@
 
 ---
 
+
+A clean academic system architecture diagram, white background, minimalistic vector style, flat design, not photorealistic, no sci-fi rendering. The diagram is organized in multiple horizontal layers representing different system levels. Each layer contains generic system entities (nodes or agents), clearly labeled with simple text (e.g., Agent, Platform, or System). Use clear directional arrows to represent interactions: - dashed arrows indicate communication - solid arrows indicate coordination or data flow Ensure connections between layers and within layers are logically structured and easy to understand. Include a simple separation between layers (e.g., horizontal lines or spacing). Add clear text labels for entities and interactions. Include a small legend explaining: - dashed line: Communication - solid line: Coordination / Data Flow Style requirements: clean, academic, IEEE paper style figure, vector illustration, high clarity, no shadows, no gradients, no textures, no artistic effects, no 3D rendering. balanced layout, centered composition, well-aligned elements, suitable for SCI journal figure.
+
 如果论文中包含图、表或实验结果，请结合这些内容一起解释，不要忽略。
 
 ---
